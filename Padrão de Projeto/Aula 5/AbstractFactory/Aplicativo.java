@@ -44,7 +44,7 @@ public class Aplicativo {
         //Lacta
         System.out.println("\n \n"+"Lacta:");
 
-        FabricaChocolate fabrica3 = new FBGaroto();
+        FabricaChocolate fabrica3 = new FBLacta();
 
         System.out.println("***************************");
         Ovos ovoAoLeite = fabrica3.criarOvoAoLeite();
